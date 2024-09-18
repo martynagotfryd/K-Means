@@ -14,7 +14,7 @@ Program should be tested on iris dataset. K-means is a clustering algorithm so l
 ## Project Overview
 The K-Means Clustering Algorithm project implements unsupervised machine learning algorithm used for partitioning data into k distinct clusters based on feature similarity. This project demonstrates how to apply the K-Means algorithm to group a dataset into clusters and visualize the results.
 
-## Features
+### Features
 - Cluster Data Points: Group data points into k clusters.
 - Dynamic K Value: Adjust the number of clusters (k) as needed.
 - Distance Calculation: Uses Euclidean distance to calculate the proximity of data points.
